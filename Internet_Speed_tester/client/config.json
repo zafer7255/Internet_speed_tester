@@ -1,0 +1,14 @@
+{
+     "mysql": {
+        "host": "Yourlocalhost",
+        "user": "YourUser",
+        "password": "YourPass",
+        "database": "YourDatabase",
+        "port": "YourPort"
+    },
+
+    "server": {
+      "ip": "YourServerIp",
+      "port":"ServerPort"
+    }
+}
